@@ -21,3 +21,5 @@ Final Projek saya membuat Menginstall WordPress
 6. Install WordPress 5 Desember 2023
 7. Konfigurasi WordPress 5 Desember 2023
 
+#Hasil Akhir
+![image](https://github.com/BDGBC/Ubuntu-Server/assets/144216595/c1b5da70-29ce-40d5-a263-fadfbe639724)
